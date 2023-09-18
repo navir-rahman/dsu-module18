@@ -1,0 +1,1 @@
+{"name":"Local: unionByRank","url":"/home/kali/Documents/phytron course/Algorithm /module 18/unionByRank.cpp","tests":[{"id":1694846406037,"input":"7 4\n1 2\n2 3\n4 5\n6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kali/Documents/phytron course/Algorithm /module 18/unionByRank.cpp","group":"local","local":true}
